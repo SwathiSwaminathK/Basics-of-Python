@@ -27,13 +27,3 @@ Python is a free and open-source programming language that may be used and distr
     
  ## Contents
  1. Introduction to Python
- 2. Variables and Data Types
- 3. Basic I/O in Python
- 4. Operators in Python
- 5. Conditional Statements and Loop
- 6. Functions in Python
- 7. List in Python
- 8. String in Python
- 9. Object Oriented Programming in Python
- 10. Exception Handling in Python
- 11. Useful Collections, Shortcuts and Tricks in Python
